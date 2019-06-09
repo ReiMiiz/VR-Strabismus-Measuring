@@ -20,6 +20,8 @@ I will constantly update this page if you need help or want to discuss please co
   - Reduced Ver.
     https://drive.google.com/open?id=1jprDb15cEMniPmSUuG_7k5YdCPF1UjCq
     
+    For more version please check inside Strab Test Folder
+    
 ### Instruction
 1. Install one of APKs given above or build a new one with Unity
 2. Start the app
@@ -45,6 +47,7 @@ I will constantly update this page if you need help or want to discuss please co
   - Oneplus 3t with Android 8 - OxygenOS 5.0.8
   - VR Box 1.0
   - Xbox Controller S
+  - [APK version 2.6.1] https://drive.google.com/open?id=1CIdXrdZUk44CmJkGHajwigL4CI6tutEi
 
 
 ### Contact
