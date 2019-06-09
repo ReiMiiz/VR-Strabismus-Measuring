@@ -20,6 +20,7 @@ I will constantly update this page if you need help or want to discuss please co
   - Version 2.6.2 Reduced Ver.
     https://drive.google.com/open?id=1jprDb15cEMniPmSUuG_7k5YdCPF1UjCq
     
+    ** This program is still unfinished, you have to restart it after a test **
     For more version please check inside Strab Test Folder
     
 ### Instruction
