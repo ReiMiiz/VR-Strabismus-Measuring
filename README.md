@@ -15,24 +15,24 @@ This is an android application for measuring Strabismus(Crossed eyes and walled 
 I will constantly update this page if you need help or want to discuss please contact me
 
 ### Demo APK
-  - Full test
+  - Version 2.6.1 Full test
     https://drive.google.com/open?id=1CIdXrdZUk44CmJkGHajwigL4CI6tutEi
-  - Reduced Ver.
+  - Version 2.6.2 Reduced Ver.
     https://drive.google.com/open?id=1jprDb15cEMniPmSUuG_7k5YdCPF1UjCq
     
     For more version please check inside Strab Test Folder
     
 ### Instruction
-1. Install one of APKs given above or build a new one with Unity
-2. Start the app
-3. Connect your controller via Bluetooth
-4. Put your mobile inside VR goggles
-5. Start the test
-   5.1. For default control of Xbox controller
-   5.2. Move the red dot to overlap the green dot
-   5.3. Press A to Confirm
-   5.4. Repeat
-6. Export the result
+1. Install one of APKs given above or build a new one with Unity.
+2. Start the app.
+3. Connect your controller via Bluetooth.
+4. Put your mobile inside VR goggles.
+5. Start the test.
+   5.1. For default control of Xbox controller.
+   5.2. Move the red dot to overlap the green dot.
+   5.3. Press A to Confirm.
+   5.4. Repeat.
+6. Export the result.
     
 # Development
 
