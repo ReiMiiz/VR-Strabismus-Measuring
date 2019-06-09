@@ -28,10 +28,10 @@ I will constantly update this page if you need help or want to discuss please co
 3. Connect your controller via Bluetooth.
 4. Put your mobile inside VR goggles.
 5. Start the test.
-   5.1. For default control of Xbox controller.
-   5.2. Move the red dot to overlap the green dot.
-   5.3. Press A to Confirm.
-   5.4. Repeat.
+   1. For default control of Xbox controller.
+   2. Move the red dot to overlap the green dot.
+   3. Press A to Confirm.
+   4. Repeat.
 6. Export the result
 
     
