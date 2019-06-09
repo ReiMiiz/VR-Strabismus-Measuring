@@ -26,11 +26,11 @@ I will constantly update this page if you need help or want to discuss please co
 3. Put your mobile inside VR goggles
 4. Start the test
   4.1 For default control of Xbox controller
-    | Button | Action |
-    | ------ | ------ |
-    | Left analog | move the red dot |
-    | A | confirm position and move on |
-    | Hold LB | to decrease speed of the red dot |
+| Button | Action |
+| ------ | ------ |
+| Left analog | move the red dot |
+| A | confirm position and move on |
+| Hold LB | to decrease speed of the red dot |
   4.2 Move the red dot to overlap the green dot
   4.3 Press A to Confirm
   4.4 Repeat
