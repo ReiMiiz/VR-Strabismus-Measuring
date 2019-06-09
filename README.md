@@ -28,10 +28,10 @@ I will constantly update this page if you need help or want to discuss please co
 3. Connect your controller via Bluetooth
 4. Put your mobile inside VR goggles
 5. Start the test
-    5.1. For default control of Xbox controller
-    5.2. Move the red dot to overlap the green dot
-    5.3. Press A to Confirm
-    5.4. Repeat
+  5.1. For default control of Xbox controller
+  5.2. Move the red dot to overlap the green dot
+  5.3. Press A to Confirm
+  5.4. Repeat
 6. Export the result
     
 # Development
@@ -47,7 +47,7 @@ I will constantly update this page if you need help or want to discuss please co
   - Oneplus 3t with Android 8 - OxygenOS 5.0.8
   - VR Box 1.0
   - Xbox Controller S
-  - [APK version 2.6.1] https://drive.google.com/open?id=1CIdXrdZUk44CmJkGHajwigL4CI6tutEi
+  - [APK version 2.6.1] (https://drive.google.com/open?id=1CIdXrdZUk44CmJkGHajwigL4CI6tutEi)
 
 
 ### Contact
